@@ -116,7 +116,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <a href="https://github.com/abhishek-ev"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-ev&show_icons=true&locale=en&theme=radical" alt="abhishek-ev" />
     </p>
 
